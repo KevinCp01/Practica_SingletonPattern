@@ -1,9 +1,15 @@
 import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-
 import SingletonConnection.SingletonConnection;
 
+/**
+ * ================ PRACTICA CONEXION A DB CON PATRON SINGLETON  ================
+ * 
+ * @author Kevin Campa Alvarado
+ *  Grupo: IDGS101N
+ *  Fecha: 30/01/2022
+ */
 
 public class Main {
 
